@@ -1,3 +1,15 @@
+/*
+
+Данная база данных спроектирована для проекта по созданию личного плана развития и оценки своего прогресса.
+
+*/
+
+
+
+
+
+
+
 drop database if exists skillmatrix;
 create database if not exists skillmatrix;
 
